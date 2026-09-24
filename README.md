@@ -5,4 +5,4 @@ Miembros grupo:
 - Cristian Garcia Del Olmo
 - Izan Jimenez Jimenez
 - Jaime Cristóbal Martín 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/502d133d-0a2c-4d67-8615-00226380719a" />
+<img width="2814" height="1536" alt="Gemini_Generated_Image_361nwv361nwv361n" src="https://github.com/user-attachments/assets/8967dd77-a8fb-4391-b217-4326f443f0b3" />
