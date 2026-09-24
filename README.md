@@ -5,3 +5,4 @@ Miembros grupo:
 - Cristian Garcia Del Olmo
 - Izan Jimenez Jimenez
 - Jaime Cristobal Martin 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/502d133d-0a2c-4d67-8615-00226380719a" />
